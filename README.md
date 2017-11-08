@@ -12,5 +12,15 @@ This will create a folder titled Lazy_Load_JQuery. Inside that folder will be an
 
 replacing the two <script> tags in the header with the cdn URLs also works:
 
+<script src="https://rawgit.com/intoro/Lazy_Load_JQuery/master/js/2_2_4_jquery.min.js"></script>
+<script src="https://rawgit.com/intoro/Lazy_Load_JQuery/master/js/1_9_7_jquery.lazyload.js"></script>
+
+or
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery_lazyload/1.9.7/jquery.lazyload.js"></script>
+
+
+Check Out These demos:
+http://www.mayrosedg.com/LazyLoad
+https://codepen.io/fullstacked/pen/mqOWwE
